@@ -55,7 +55,7 @@
                             <div class="col-12 mt-3">
                                 <label for="picture" class="form-label fw-semibold"><i class="bi bi-image me-1"></i>Profile Picture</label>
                                 <div class="input-group mb-3">
-                                    <input type="file" class="form-control" id="picture" name="picture" accept="image/*">
+                                    <input type="file" class="form-control" id="picture" name="picture" accept="image/*" required>
                                     <label class="input-group-text" for="picture"><i class="bi bi-upload"></i></label>
                                 </div>
                             </div>
